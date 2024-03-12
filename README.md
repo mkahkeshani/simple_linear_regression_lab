@@ -1,0 +1,1 @@
+In this repository, it is explained in a simple way about simple linear regression and the libraries that should be used in it. This lab is actually a part of machine learning training with Python by Mr. Saeed Aghabozurgi, IBM company.
